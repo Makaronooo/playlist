@@ -1,0 +1,10 @@
+GitTutorial notes:
+
+git init --> to initiate Git
+
+git status --> to check the status 
+
+git add .
+git add <filename> --> to add files to commit
+
+git commit -m "commit comment"
