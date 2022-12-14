@@ -21,3 +21,5 @@ git branch --> list the branches
 git branch <name> --> creates a new branch with the typed name
 
 git merge <name_of_branch>
+
+https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049
