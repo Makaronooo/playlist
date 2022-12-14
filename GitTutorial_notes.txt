@@ -4,7 +4,20 @@ git init --> to initiate Git
 
 git status --> to check the status 
 
-git add .
+git add . --> to add all changes
 git add <filename> --> to add files to commit
 
-git commit -m "commit comment"
+git commit -m "commit comment" --> commit 
+
+git log --> history of commits
+
+git checkout <commit-hash> --> you go back to the previous state of your docs and to a new branch
+
+git checkout master --> go back to master branch
+
+branch is a timeline
+
+git branch --> list the branches
+git branch <name> --> creates a new branch with the typed name
+
+git merge <name_of_branch>
