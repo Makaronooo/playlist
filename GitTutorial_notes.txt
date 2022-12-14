@@ -23,3 +23,47 @@ git branch <name> --> creates a new branch with the typed name
 git merge <name_of_branch>
 
 https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049
+
+https://www.notion.so/zarkom/Introduction-to-GitHub-202af6f64bbd4299b15f238dcd09d2a7
+
+git remote add origin https_URL --> to connected with GitHub repository
+
+git remote -v --> to see the connetions 
+
+git push -u origin master --> push to GitHub repository
+
+git pull origin master --> pull from origin (URL GitHub) to master (on your machine)
+
+git checkout <branch_name> --> creates and checkouts to a new branch
+
+git push -u origin <branch_name> --> push to GitHub repository a new branch
+
+git clone httpsURL --> to clone from a GitHub repository
+
+fork --> it is copy someone's repository to yours GitHub and you can work on it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
